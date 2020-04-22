@@ -1,0 +1,22 @@
+// Base colors
+$red: #ef6430;
+$light-grey: #f6f6ef;
+$accent-grey: #e6e6df;
+$dark-grey: #999999;
+$link-dark: #868282;
+$black: #000000;
+$suppressed: #b8b8b8;
+
+// Global
+body {
+  background-color: $light-grey;
+}
+
+// Helpers
+.center {
+  text-align: center;
+}
+
+// .right {
+//   text-align: right;
+// }
