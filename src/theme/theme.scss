@@ -12,6 +12,10 @@ body {
   background-color: $light-grey;
 }
 
+html, body{
+  font-family: "Verdana", "Geneva", sans-serif;
+}
+
 // Helpers
 .center {
   text-align: center;
