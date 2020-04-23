@@ -10,7 +10,8 @@ export default class NewsComponent extends Component {
         super()
         this.state = {
             news: [],
-            hidden: []
+            hidden: [],
+            upVotes: []
         }
     }
 
@@ -20,8 +21,14 @@ export default class NewsComponent extends Component {
             this.setState({ hidden: hiddenByUser })
         }
 
+        let userUpVotes = JSON.parse(localStorage.getItem('userUpVotes'))
+        console.log('User Votes===>', userUpVotes)
+        if (userUpVotes !== null) {
+            this.setState({ upVotes: userUpVotes })
+        }
+
         //********** Swith the endpoint here
-        // fetch('http://hn.algolia.com/api/v1/search?tags=front_page')
+        //fetch('http://hn.algolia.com/api/v1/search?tags=front_page')
         fetch('/stub/data.json')
             .then(response => response.json())
             .then(news => {
@@ -32,31 +39,48 @@ export default class NewsComponent extends Component {
                 } else {
                     news = news.hits
                 }
+
+                // if (this.state.upVotes.length > 0) {
+                //     news = news.map((n) => {
+                //         this.state.upVotes.find(vote => {
+                //             if (vote.id === n.objectID) {
+                //                 n.points = n.points + vote.count
+                //             }
+                //             return vote
+                //         })
+                //         return n
+                //     })
+                // }
+
+                console.log('news', news)
                 this.setState({ news: news })
             });
     }
 
     handleUpvote = (id) => {
+        let votes = [...this.state.upVotes];
+
+        let count = 1
+
+        votes.forEach(vote => {
+            if (vote === id) {
+                count++
+            }
+        })
+
         let udpatedNews = [...this.state.news];
         const current = udpatedNews.find((element) => {
             return element.objectID === id
         })
-        current.points = current.points + 1;
-        this.setState({ news: udpatedNews })
+        if (count <= 10) {
+            current.points = current.points + 1;
+            votes.push(id);
+            localStorage.setItem("userUpVotes", JSON.stringify(votes))
+        } else {
+            alert('Limit exceeded!')
+        }
+        this.setState({ news: udpatedNews, upVotes: votes })
     }
-
-    /*
-    hide
-        hidden = [objectID]
-           save to localStorage
-           updateState
-           
-    onLoad
-        get hidden from local storage
-            splice it from response and update state
-           
-
-    */
 
     hideArticles = (id) => {
         let hiddenNews = [...this.state.hidden]
@@ -64,7 +88,6 @@ export default class NewsComponent extends Component {
         udpatedNews = udpatedNews.filter((element) => {
             return element.objectID !== id
         });
-
         hiddenNews.push(id);
         this.setState({ news: udpatedNews, hidden: hiddenNews }, () => {
             console.log(this.state.hidden)
@@ -77,7 +100,6 @@ export default class NewsComponent extends Component {
             <Container fluid>
                 <Row>
                     <Col>
-                        {JSON.stringify(this.state.hidden)}
                         <Table striped hover size="sm">
                             <tbody>
                                 {
