@@ -1,0 +1,39 @@
+@import "../../../theme/theme.scss";
+
+.upvote {
+  color: $dark-grey;
+  font-size: 1.3em;
+  cursor: pointer;
+  margin-left: 3px;
+}
+
+.articleDetails {
+  span {
+    margin-right: 5px;
+    color: $suppressed;
+  }
+  .title {
+    font-size: 1.1em;
+    a {
+      color: $black;
+    }
+  }
+  .articleAccent {
+    color: $link-dark;
+    font-weight: 500;
+    a {
+      color: $black;
+    }
+  }
+}
+
+.btn-link {
+  padding: 0;
+  margin: 0;
+  font-size: 13px;
+  color: $black;
+  font-weight: 500;
+  &:hover {
+    color: $black;
+  }
+}

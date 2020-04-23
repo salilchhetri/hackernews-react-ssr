@@ -1,0 +1,670 @@
+{
+  "hits": [
+    {
+      "created_at": "2020-04-20T16:00:40.000Z",
+      "title": "Shirt Without Stripes",
+      "url": "https://github.com/elsamuko/Shirt-without-Stripes",
+      "author": "elsamuko",
+      "points": 1608,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 586,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587398440,
+      "_tags": ["story", "author_elsamuko", "story_22925087", "front_page"],
+      "objectID": "22925087",
+      "_highlightResult": {
+        "title": {
+          "value": "Shirt Without Stripes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/elsamuko/Shirt-without-Stripes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "elsamuko",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T20:42:37.000Z",
+      "title": "Who’s behind the “reopen” domain surge?",
+      "url": "https://krebsonsecurity.com/2020/04/whos-behind-the-reopen-domain-surge/",
+      "author": "feross",
+      "points": 929,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 415,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587415357,
+      "_tags": ["story", "author_feross", "story_22928292", "front_page"],
+      "objectID": "22928292",
+      "_highlightResult": {
+        "title": {
+          "value": "Who’s behind the “reopen” domain surge?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://krebsonsecurity.com/2020/04/whos-behind-the-reopen-domain-surge/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "feross",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T15:46:36.000Z",
+      "title": "I tried to buy an actual barrel of crude oil (2015)",
+      "url": "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil",
+      "author": "pjc50",
+      "points": 388,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 142,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587397596,
+      "_tags": ["story", "author_pjc50", "story_22924929", "front_page"],
+      "objectID": "22924929",
+      "_highlightResult": {
+        "title": {
+          "value": "I tried to buy an actual barrel of crude oil (2015)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.bloomberg.com/news/articles/2015-11-03/that-time-i-tried-to-buy-some-crude-oil",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "pjc50",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T21:06:22.000Z",
+      "title": "AMD’s Mobile Revival: Redefining the Notebook Business with the Ryzen 9 4900HS",
+      "url": "https://www.anandtech.com/show/15708/amds-mobile-revival-redefining-the-notebook-business-with-the-ryzen-9-4900hs-a-review/8",
+      "author": "partingshots",
+      "points": 300,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 192,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587416782,
+      "_tags": ["story", "author_partingshots", "story_22928557", "front_page"],
+      "objectID": "22928557",
+      "_highlightResult": {
+        "title": {
+          "value": "AMD’s Mobile Revival: Redefining the Notebook Business with the Ryzen 9 4900HS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.anandtech.com/show/15708/amds-mobile-revival-redefining-the-notebook-business-with-the-ryzen-9-4900hs-a-review/8",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "partingshots",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T05:07:05.000Z",
+      "title": "Playstation Architecture: A Practical Analysis",
+      "url": "https://copetti.org/projects/consoles/playstation/",
+      "author": "plerpin",
+      "points": 253,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 74,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587445625,
+      "_tags": ["story", "author_plerpin", "story_22932134", "front_page"],
+      "objectID": "22932134",
+      "_highlightResult": {
+        "title": {
+          "value": "Playstation Architecture: A Practical Analysis",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://copetti.org/projects/consoles/playstation/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "plerpin",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T03:35:31.000Z",
+      "title": "What is interesting about Factorio",
+      "url": "http://fuseki.net/home/WhatIsInterestingAboutFactorio.html",
+      "author": "ivee",
+      "points": 211,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 204,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587440131,
+      "_tags": ["story", "author_ivee", "story_22931595", "front_page"],
+      "objectID": "22931595",
+      "_highlightResult": {
+        "title": {
+          "value": "What is interesting about Factorio",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://fuseki.net/home/WhatIsInterestingAboutFactorio.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ivee",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T09:52:38.000Z",
+      "title": "Vercel, formerly Zeit, raises $21M Series A",
+      "url": "https://vercel.com/blog/zeit-is-now-vercel",
+      "author": "mxschmitt",
+      "points": 196,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 104,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587462758,
+      "_tags": ["story", "author_mxschmitt", "story_22933479", "front_page"],
+      "objectID": "22933479",
+      "_highlightResult": {
+        "title": {
+          "value": "Vercel, formerly Zeit, raises $21M Series A",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://vercel.com/blog/zeit-is-now-vercel",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mxschmitt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T01:36:41.000Z",
+      "title": "A theory of Zoom fatigue",
+      "url": "https://theconvivialsociety.substack.com/p/a-theory-of-zoom-fatigue",
+      "author": "longdefeat",
+      "points": 191,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 151,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587433001,
+      "_tags": ["story", "author_longdefeat", "story_22930965", "front_page"],
+      "objectID": "22930965",
+      "_highlightResult": {
+        "title": {
+          "value": "A theory of Zoom fatigue",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://theconvivialsociety.substack.com/p/a-theory-of-zoom-fatigue",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "longdefeat",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T20:32:34.000Z",
+      "title": "Supreme Court says criminal convictions require unanimous juries",
+      "url": "https://www.cnbc.com/2020/04/20/supreme-court-says-criminal-convictions-require-unanimous-juries.html",
+      "author": "wonderwonder",
+      "points": 179,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 107,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587414754,
+      "_tags": ["story", "author_wonderwonder", "story_22928178", "front_page"],
+      "objectID": "22928178",
+      "_highlightResult": {
+        "title": {
+          "value": "Supreme Court says criminal convictions require unanimous juries",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cnbc.com/2020/04/20/supreme-court-says-criminal-convictions-require-unanimous-juries.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "wonderwonder",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T09:08:22.000Z",
+      "title": "Netflix now supports TLS 1.3",
+      "url": "https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c",
+      "author": "caution",
+      "points": 157,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 69,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587460102,
+      "_tags": ["story", "author_caution", "story_22933265", "front_page"],
+      "objectID": "22933265",
+      "_highlightResult": {
+        "title": {
+          "value": "Netflix now supports TLS 1.3",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://netflixtechblog.com/how-netflix-brings-safer-and-faster-streaming-experience-to-the-living-room-on-crowded-networks-78b8de7f758c",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "caution",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T00:50:40.000Z",
+      "title": "The 'Undertaker of Silicon Valley' Stays Busy as Startups Lay Off Thousands",
+      "url": "https://www.npr.org/2020/04/20/837527666/the-undertaker-of-silicon-valley-stays-busy-as-startups-lay-off-thousands",
+      "author": "stygiansonic",
+      "points": 155,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 99,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587430240,
+      "_tags": ["story", "author_stygiansonic", "story_22930661", "front_page"],
+      "objectID": "22930661",
+      "_highlightResult": {
+        "title": {
+          "value": "The 'Undertaker of Silicon Valley' Stays Busy as Startups Lay Off Thousands",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.npr.org/2020/04/20/837527666/the-undertaker-of-silicon-valley-stays-busy-as-startups-lay-off-thousands",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "stygiansonic",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T10:42:20.000Z",
+      "title": "Show HN: Pattern.css – CSS-only library to fill empty background with patterns",
+      "url": "https://github.com/bansal-io/pattern.css",
+      "author": "bansal10",
+      "points": 134,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 18,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587465740,
+      "_tags": [
+        "story",
+        "author_bansal10",
+        "story_22933697",
+        "show_hn",
+        "front_page"
+      ],
+      "objectID": "22933697",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Pattern.css – CSS-only library to fill empty background with patterns",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/bansal-io/pattern.css",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bansal10",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T13:39:58.000Z",
+      "title": "A Possible New Backend for Rust",
+      "url": "https://jason-williams.co.uk/a-possible-new-backend-for-rust",
+      "author": "obl",
+      "points": 95,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 28,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587476398,
+      "_tags": ["story", "author_obl", "story_22934848", "front_page"],
+      "objectID": "22934848",
+      "_highlightResult": {
+        "title": {
+          "value": "A Possible New Backend for Rust",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://jason-williams.co.uk/a-possible-new-backend-for-rust",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "obl",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T14:22:42.000Z",
+      "title": "Libschrift: A lightweight TrueType font rendering library",
+      "url": "https://github.com/tomolt/libschrift",
+      "author": "zdw",
+      "points": 84,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 68,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587392562,
+      "_tags": ["story", "author_zdw", "story_22924015", "front_page"],
+      "objectID": "22924015",
+      "_highlightResult": {
+        "title": {
+          "value": "Libschrift: A lightweight TrueType font rendering library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/tomolt/libschrift",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "zdw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-20T16:00:55.000Z",
+      "title": "Sun Microsystems PizzaTool (2018)",
+      "url": "https://medium.com/@donhopkins/the-story-of-sun-microsystems-pizzatool-2a7992b4c797",
+      "author": "zdw",
+      "points": 71,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 36,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587398455,
+      "_tags": ["story", "author_zdw", "story_22925091", "front_page"],
+      "objectID": "22925091",
+      "_highlightResult": {
+        "title": {
+          "value": "Sun Microsystems PizzaTool (2018)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://medium.com/@donhopkins/the-story-of-sun-microsystems-pizzatool-2a7992b4c797",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "zdw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T09:26:44.000Z",
+      "title": "Google's Head of Quantum Computing Hardware Resigns",
+      "url": "https://www.wired.com/story/googles-head-quantum-computing-hardware-resigns/",
+      "author": "mmhsieh",
+      "points": 68,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 18,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587461204,
+      "_tags": ["story", "author_mmhsieh", "story_22933359", "front_page"],
+      "objectID": "22933359",
+      "_highlightResult": {
+        "title": {
+          "value": "Google's Head of Quantum Computing Hardware Resigns",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.wired.com/story/googles-head-quantum-computing-hardware-resigns/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mmhsieh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T11:06:40.000Z",
+      "title": "Combining event sourcing and stateful systems",
+      "url": "https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems",
+      "author": "brendt_gd",
+      "points": 63,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 13,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587467200,
+      "_tags": ["story", "author_brendt_gd", "story_22933810", "front_page"],
+      "objectID": "22933810",
+      "_highlightResult": {
+        "title": {
+          "value": "Combining event sourcing and stateful systems",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "brendt_gd",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T08:50:45.000Z",
+      "title": "Ask HN: How to get good at social media?",
+      "url": null,
+      "author": "thrwaway69",
+      "points": 61,
+      "story_text": "I feel absolutely shit when I am trying to be relevant by spamming the trending tags, repeating what is already there in the form of SEO spam, email spamming, asking people to subscribe to thing they probably don&#x27;t even care about.<p>How do you handle this?<p>Trying to keep track of what&#x27;s trending tires me out. Why is it always hate, hate and hate. Why is it always politics or some celebrity expressing their &quot;concerns&quot; or cute puppies.",
+      "comment_text": null,
+      "num_comments": 47,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587459045,
+      "_tags": [
+        "story",
+        "author_thrwaway69",
+        "story_22933182",
+        "ask_hn",
+        "front_page"
+      ],
+      "objectID": "22933182",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: How to get good at social media?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "thrwaway69",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "I feel absolutely shit when I am trying to be relevant by spamming the trending tags, repeating what is already there in the form of SEO spam, email spamming, asking people to subscribe to thing they probably don't even care about.<p>How do you handle this?<p>Trying to keep track of what's trending tires me out. Why is it always hate, hate and hate. Why is it always politics or some celebrity expressing their &quot;concerns&quot; or cute puppies.",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-21T13:22:56.000Z",
+      "title": "An update on a pre-registered result about the coronavirus",
+      "url": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
+      "author": "balfirevic",
+      "points": 60,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 27,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587475376,
+      "_tags": ["story", "author_balfirevic", "story_22934704", "front_page"],
+      "objectID": "22934704",
+      "_highlightResult": {
+        "title": {
+          "value": "An update on a pre-registered result about the coronavirus",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.kalzumeus.com/2020/04/21/japan-coronavirus/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "balfirevic",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 30,
+  "page": 0,
+  "nbPages": 2,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": true,
+  "query": "",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&tags=front_page",
+  "processingTimeMS": 1
+}
