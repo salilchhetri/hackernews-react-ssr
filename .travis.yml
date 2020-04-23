@@ -3,18 +3,14 @@ language: node_js
 node_js:
   - node
 cache: yarn
-
 install:
   - yarn install
-
 script:
   - yarn run build
-
 deploy:
   provider: heroku
   api_key:
-    secure: $HEROKU_API_KEY
-  skip_cleanup: true
-  app:
-    master: hackernoon-react-ssr
-  on: master
+    secure: U+E2ACDou+U/usFYAdjKSMW0xnSD6O0DnidvX2JAglVuWHDI26+1nrBsnyZUBuqAZWQXl5UngrwBMEy3BpvTqzRZG7FOegqV/Ak4FWHGKGQuO2VcrDEqmGkJlK2+m7c3BiMsh3Im2wnh3HBvsKxSpbUy8Oov9IFUwZsqSRNdtC+ViapLFZBuwhObEkZl0Zd21YT58T3dAIyo9GxQr6eCOrpIgUDn+r5vEdL4vcdsSW0wtRjbeV4sHPMO1iGdD+srzj2rMeX7HFg3/PzCS2eAhMGvCKwm/x2K1+/OWaqtFxQmNgX3CpQSPcZB7lDkvGFElla5HH2RZBbjNJCSaMN6R1jYxgeLIv3fKe9bZYjuICw8bL9S7ZjzxpNIgqaRI7fGIWc29igaL7XxQxy4uLomGGM86zR5Aqru7vjsy411CruFQ9pXse2qMqKXjUAcJ4+Bb5bZ4j/EduhZRD9Lofa2c/tUFkq4GVYgC0WGHe9jYd8iM186U9B4xCYNFKSCvH/VgK4zdpfUnyORWslsDokBfZAxUrDebU/vRMWUD/pC0mqAxYfdE/rjuECseANt3dpHlvIHjYF2jMt4Mdre1sNlx39IBNiTKLyNn1khsZxr9+eGZR/vvyC9otG9EB5A4A2wB4IXZw0Fu/rc1wcG2CFCoESJi9YDvi9OwC5UPw3QQhQ=
+  app: f669-1802-458-9a4f-17e44675
+  on:
+    repo: salilchhetri/hackernews-react-ssr
