@@ -1,16 +1,16 @@
 sudo: false
 language: node_js
 node_js:
-- node
+  - node
 cache: yarn
 install:
-- yarn install
+  - yarn install
 script:
-- yarn run build
+  - yarn run build
 deploy:
   provider: heroku
   api_key:
-    secure: XMrNt4qk7OU+5umwrpHKTU38gwa/BtmPS4b7M+VwW/i/jD+Kk/CFGGeakNfPkxQT9NpYtntej+e1t7jy6S9l7sVe1xXSMamdZ1U0HU7RmNtHaPYJV5DS1Q30yl2UIS5nL9e0nXWeuQb4LrgdFOIxk9XOd6ihDH50oZSDMwidgHXDt0RgH8AVC2YD/wf2OYRwgheD43oS1dFSBo0viSP2diPvT6NbdxIpHrIO+7v8T2nrBKGjvuPQq2p6F9g1o+D9BsLuTW9Ha7y7UHsGuO5IMqJPK3rqw50vP1mQE/b8RA49qd0lvNGRybSnqJTkUzfyUXrhYWsLcT6D4egfGEKDAH8o2lOn6GuUQpHbwcY+0x0inUCh7HiHwLwFVgVJhKS0LENaqetIgtb5QlEL68irWrbebiX8NhSwKSU/OGF3lSRtPTB+LrcDxJLeQeTP8DWqnFdmF1uR1y9DXsuuVm/hHmM3daxdXr63r3fUtIcfUXJFaLni0ALxBZgZ4wf2TRneAoTJbk8Ycq57P2G6YtwOBwSOhVgG7ufkUQdCRuKqjf17enKoUwJ/0R4+3br3tR/I0Hmb//xLiPeoOXRDpbQN0Rm5RQgYF30klSeiqAKEOqxXtXAveKli/cT6IFZ16yWQ9Jy/P4DKr2jsYEv89aizztvjSsUcKwAyFYGTT9Y0KTM=
-  app: 69-1802-454f-17e44675
+    secure: LNKk5S2wIk4jrhxw64DwLbJKVkXkMpov4Aag+czTlhYBfawJsSt58lKGDWT287VJPmYODsoqllCxAm4+AgVeDIdKqTU4GcOW1+d9ilnfo7kN3SO1yuWXPrQ5Zv3gi0C1QWdG/i6qf+h0ELR8FfJhwu9xzto9HidYpUODiIrUN9urD3l6V8fAu82kxIvauqdVu2P5GxDGdlYGW36gD+oWqbStguokqwAnow8ZRrxUJi7uw8Rhr5SvMbZ2m5LlW5r+NbTIW8NI3bkd/F9XpnKiVN0bjaDFvkVlJkBzNM0lti0TCut+/qSHKGYCcDmMu7SqQMoWyqLoDhQxlDM03Z0KN6IQ+hcwmHTy6zasjBcZYPsgzWihSqELgndUy0OBfq3MtpmnmdUOlA7jonlAcMZN3BHvPhPuN9D1jlrmfM9OeAan632oAOJoT707hsmh5v1C0TdIn4XJKG9tKG7kkqJhD4bBghtDSPQpsEBU8+evl4yEavLNwHrtTwgi+mexGrKIO//I/whjgkXn+m+ZUA32vv657tbQ0gUndzTaLhkL1TA4L07/j+/8reo1RXsTscBzrfiOdwWaqe8uBzJ7c9IiJ/1jF2cAP2SlpGrAbhIaDj8gtWzvu++kXuvpjFO5HQwoi6PZ0lUkyVIgh+i78F0d80233g5kdu1b9YOUxltVlyg=
+  app: 6f669-1802-454f-17e44675b9
   on:
     repo: salilchhetri/hackernews-react-ssr
