@@ -1,13 +1,19 @@
-sudo: false
 language: node_js
 node_js:
-  - node
-deploy:
-  provider: heroku
-  skip_cleanup: true
-  api_key:
-    secure: DtFXYmzXciTpGv7FP9PeUnOpAkY7TP3ryv0FkbiYpf1IXppJkBznP2ThikAVEcLDoxMI9UmHgovtbAFhGtBPis3bbGIQzZcjeDBVRabQJiT3+BoYHFK7Xux25ySekRujdICh5s0179DJqjpAlxHEUPGND4/nGQg8M95uZlMkitCSo0Xj7ictBD7so/CCPmOldiq5kwZ1vy0QUWR86CMLq8w8E5koVGYQSLQAYLfGuRRKY470/9cMlrJXQepM0W0UksJ9zEeV1cQqi6gdzozJRem/qbxrDrlUFXWOPgQjZWVX3rVKAGaSC7moi4Zl1Dkw+0SsIJTo/QijL/C3cIJbSFsQ/HIeZDah6wGr95w5L+ev7u/35ICUAhfCUy5cQgXApCTbcoDrCwf9tAlwGC03BIlSeX9uSO/KFQBx7xIJpsm+kIrh8fMfx/qxBsXFWCHxMEpW6IeAjjAmFfKkCMLxhRjYLA6a6gtw6Ss7doUF0u93KJrPdU2recpk/GOFqbNvkqmKNSwOhfwUhqFqguDiBX9eCRCoQnmlINmf6ULQwZ087oeszxGfouKFGsvHcToomslcohGiZdN7cqF0jQWQX3UHhRqv3gDxQ10iFUdW5PU7q2y+gR3DBovYKz8Hik6rnE1QyBnDTu6o1KmZWjOx5G/D6berDaGrXzex5hTH3ao=
-  app:
-    master: hackernews-react-ssr
-  on:
-    repo: salilchhetri/hackernews-react-ssr
+  - "stable"
+cache:
+  directories:
+    - node_modules
+jobs:
+  include:
+    - stage: test
+      script: yarn test
+    - stage: build
+      script: yarn build
+    - stage: deploy
+      deploy:
+        provider: heroku
+        api_key: $HEROKU_API_KEY
+        app: hackernoon-react-ssr
+on:
+  branch: master
